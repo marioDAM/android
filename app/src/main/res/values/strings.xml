@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">gymario</string>
+    <string name="pierna">Pierna</string>
+    <string name="b_ceps">Bíceps</string>
+    <string name="hombro">Hombro</string>
+    <string name="espalda">Espalda</string>
+    <string name="login">Login</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="pecho">Jalón al pecho</string>
+    <string name="dominadas">Dominadas</string>
+    <string name="remo">Remo</string>
+    <string name="presshombro">Press de hombro</string>
+    <string name="elevacionesfrontales">Elevaciones frontales</string>
+    <string name="elevacioneslaterales">Elevaciones laterales</string>
+    <string name="sentadillas">Sentadillas</string>
+    <string name="pesomuerto">Peso muerto</string>
+    <string name="prensapierna">Prensa de pierna</string>
+    <string name="elevacionesmancuerna">Elevaciones con mancuerna</string>
+    <string name="curlbicepsbarra">Curl de biceps con barra</string>
+    <string name="curlbicepsmancuerna">Curl de biceps con mancuerna</string>
+</resources>
