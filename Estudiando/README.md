@@ -1,2 +1,0 @@
-# Estudiando
-Probando GitHub
